@@ -1,5 +1,14 @@
 # Changelog
 
+## [25.9.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.9.0...puppeteer-core-v25.9.1) (2026-08-28)
+
+
+### 🛠️ Fixes
+
+* do not miss the first screencast frame while startScreencast is in flight ([#15389](https://github.com/puppeteer/puppeteer/issues/15389)) ([1969426](https://github.com/puppeteer/puppeteer/commit/1969426492e7201e9ff78c49c918cdd1cbbeef2a))
+* roll to Chrome 152.0.7977.64 ([#15395](https://github.com/puppeteer/puppeteer/issues/15395)) ([974e536](https://github.com/puppeteer/puppeteer/commit/974e53667e81363e36f634222eb300a054c1fb6c))
+* roll to Firefox 154.0.1 ([#15397](https://github.com/puppeteer/puppeteer/issues/15397)) ([8ac76fd](https://github.com/puppeteer/puppeteer/commit/8ac76fdbdee170902a2ac4e831c9c82cafe17b65))
+
 ## [25.9.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.8.0...puppeteer-core-v25.9.0) (2026-08-24)
 
 
